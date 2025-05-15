@@ -36,17 +36,20 @@ ul{
 }
 h2{
     color: rgb(197, 197, 197);
+    text-decoration: underline;
 }
 a {
     text-decoration: none;
     color: rgb(197, 197, 197);
-  }
+}
   
-  a:hover {
+a:hover {
     text-decoration: underline;
     color: rgb(197, 197, 197);
-  }
-  
-  a:active {
+}  
+a:active {
     color: rgb(0, 0, 0);
-  }
+}
+h2{
+    margin-left: 15px;
+}
