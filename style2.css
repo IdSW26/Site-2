@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    margin: 0%;
+}
+#logo{
+    height: 220px;
+}
+img{
+    float: right;
+    padding-right: 900px;
+}
+footer{
+    float: none;
+}
