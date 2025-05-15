@@ -1,18 +1,52 @@
 body {
     margin: 0px;
-    background-color: black;
-    color: aliceblue;
+    background-color: rgb(29, 29, 29);
 }
 h1{
     margin: 0%;
+    padding-top: 60px;
 }
 #logo{
     height: 220px;
 }
-img{
-    float: right;
-    padding-right: 900px;
-}
 footer{
     float: none;
+    color: rgb(197, 197, 197);
 }
+img{
+    float: left;
+    height: 50px;
+}
+header{
+    background-color: rgb(128, 128, 128);
+    height: 230px;
+}
+p{
+    padding-left: 10px;
+    color: rgb(197, 197, 197);
+}
+ul{
+    float: left;    
+    padding-right: 30px;
+    color: rgb(197, 197, 197);
+}
+.subtitulo{
+    padding-left: 230px;
+    color: rgb(29, 29, 29);
+}
+h2{
+    color: rgb(197, 197, 197);
+}
+a {
+    text-decoration: none;
+    color: rgb(197, 197, 197);
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: rgb(197, 197, 197);
+  }
+  
+  a:active {
+    color: rgb(0, 0, 0);
+  }
