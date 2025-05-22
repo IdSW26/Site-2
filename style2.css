@@ -10,6 +10,7 @@ h1{
     height: 220px;
 }
 footer{
+    background-color: rgb(128, 128, 128);
     float: none;
     color: rgb(197, 197, 197);
 }
